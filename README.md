@@ -56,7 +56,7 @@ ReAct/                        # Project root
 
 2. Install dependencies:
    ```bash
-   pip install google-generativeai python-dotenv requests
+   pip install -r requirements.txt
    ```
 
 3. Copy `.env.example` to `.env` and fill in your API keys:
